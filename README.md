@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hanna
-<img width="1584" height="396" alt="hanna" src="https://github.com/user-attachments/assets/0cc01cd8-e643-4e86-ba8c-611cb7b7f611" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 
 ## 🧑‍💻 About Me
