@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img width="1584" height="396" alt="hanna" src="https://github.com/user-attachments/assets/0cc01cd8-e643-4e86-ba8c-611cb7b7f611" />
 <!--
 **h4xnna/h4xnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
