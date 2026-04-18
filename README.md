@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Hanna
+# Hi, I'm Hanna
 <img width="1584" height="396" alt="hanna" src="https://github.com/user-attachments/assets/541cc9fa-294b-43bb-943a-cbbe1b370da6" />
 
 
-## 🧑‍💻 About Me
+## About Me
   I'm *19* years old, assionate about **coding** and **video games**, I'm very curious, I love exploring new things and constantly learning
 
 
