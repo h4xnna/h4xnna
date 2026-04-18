@@ -2,8 +2,8 @@
 <img width="1584" height="396" alt="hanna" src="https://github.com/user-attachments/assets/541cc9fa-294b-43bb-943a-cbbe1b370da6" />
 
 ## About Me
-  ### I'm *19* years old, passionate about **coding** and **video games**,curious by nature, I enjoy discovering new technologies and continuously improving my skills
-  ### At 42, I’ve developed strong adaptability, the ability to build projects from scratch, and a focus on writing clean, efficient code 
+  ### I'm *19* years old, passionate about **coding** and **video games**,curious by nature. I enjoy discovering new technologies and continuously improving my skills.
+  ### At 42, I’ve developed strong adaptability, the ability to build projects from scratch, and a focus on writing clean, efficient code.
 ---
 ## Skills:
 
@@ -16,7 +16,7 @@
   Shell
 ```
 
-## Technical Experience
+## C 
 - Implemented raycasting : **Cub3D**  (3D projection techniques, inspired by early game engines)
 - Built file parsing systems : **Push_swap**  (handling structured data, validation, error management)
 - Worked with multithreading : **Philosopher** (processes, synchronization, concurrency issues)
